@@ -1,2 +1,2 @@
 # heroku-dev
-heroku韓発環境
+heroku開発環境
