@@ -1,0 +1,13 @@
+{
+    "require": {
+        "monolog/monolog": "*",
+        "aws/aws-sdk-php": "^3.178",
+        "aws/aws-php-sns-message-validator": "^1.6"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "app\\aws\\": "aws"
+        }
+    }
+}
